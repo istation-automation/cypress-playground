@@ -17,8 +17,6 @@ module.exports = {
   },
     experimentalStudio: true,
     pageLoadTimeout: 60000,
-    baseUrl: 'https://app-dev.istation.com',
-    numTestsKeptInMemory: 0,
-    experimentalMemoryManagement: true
+    baseUrl: 'https://app-dev.istation.com'
   },
 }
